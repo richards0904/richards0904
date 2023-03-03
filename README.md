@@ -10,7 +10,7 @@
 </a>
 
 <br />
-
+<br/>
 Hi, i'm Richard Satya, a Collage student in Multi Data Palembang University in Information System major. I am learning many thing in here like how to make a good system for business and other things like learn how to make a website and many more. I am also a self taught front end web developer eventhough my level right now is a begginer. I already learn some of html,css and javascript from youtube and in collage i learn python and java mainly. 
 
 
