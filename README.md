@@ -1,15 +1,12 @@
 ### Hello There
-<a href="https://www.instagram.com/richard_satya//">
+<a href="https://www.instagram.com/richard_satya/">
   <img align="left" alt="Richard Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/richard_satya">
   <img align="left" alt="Richard Satya | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href=" www.linkedin.com/in/richard-satya/">
-  <img align="left" alt="Richard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href=" https://www.facebook.com/profile.php?id=100009134602219/">
-  <img align="left" alt="Richard's Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" />
+<a href="https://www.facebook.com/profile.php?id=100009134602219">
+  <img align="left" alt="Richard Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/1200px-Facebook_icon.svg.png" />
 </a>
 
 <br />
