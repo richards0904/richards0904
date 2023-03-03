@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Richard Satya 👋
 
 <!--
 **richards0904/richards0904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
