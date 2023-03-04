@@ -11,6 +11,7 @@
 
 <br />
 <br/>
+<h1>About Me </h1>
 Hi, i'm Richard Satya, a Collage student in Multi Data Palembang University in Information System major. I am learning many thing in here like how to make a good system for business and other things like learn how to make a website and many more. I am also a self taught front end web developer eventhough my level right now is a begginer. I already learn some of html,css and javascript from youtube and in collage i learn python and java mainly. 
 
 
@@ -23,3 +24,6 @@ Hi, i'm Richard Satya, a Collage student in Multi Data Palembang University in I
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"></code>
+<br/>
+<br/>
+![](https://komarev.com/ghpvc/?username=richards0904&color=blue)
