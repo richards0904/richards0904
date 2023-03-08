@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=35&pause=1000&color=0B2734&background=FFFFFE&center=true&vCenter=true&repeat=false&width=435&lines=Hi+I'm+Richard+Satya" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=35&pause=5000&color=0B2734&background=FFFFFE&center=true&vCenter=true&width=435&lines=Hi+I'm+Richard+Satya" alt="Typing SVG" /></a></h1>
 <h3 align="center">A student in MDP University with Information Technology major</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richards0904&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="richards0904"  /> </p>
