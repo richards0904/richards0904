@@ -2,7 +2,7 @@
 <h3 align="center">A student in MDP University with Information Technology major</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richards0904&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="richards0904"  /> </p>
-<img align="right" alt="GIF" src="https://cdn-hjkgf.nitrocdn.com/TXhyeHzLvXrPrkIinWDxLcEonZCfYOKB/assets/static/optimized/rev-c50e164/wp-content/uploads/2021/09/Yui-Hirasawa-k-on-hi-wave1.gif" width="300" />
+<img align="right" alt="GIF" src="https://media.tenor.com/C8xkrfaxT_wAAAAM/yay-celebration.gif" width="200" />
 
 - 🌱 I’m currently learning **Javascript, mysql, java**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/richard satya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard satya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/richard-satya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard satya" height="30" width="40" /></a>
 <a href="https://www.instagram.com/richard_satya/">
 <img align="left" alt="Richard Instagram"  width="40" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
