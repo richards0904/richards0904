@@ -2,6 +2,7 @@
 <h3 align="center">A student in MDP University with Information Technology major</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richards0904&label=Profile%20views&color=0e75b6&style=flat&color=brightgreen" alt="richards0904"  /> </p>
+<img align="right" alt="GIF" src="https://cdn-hjkgf.nitrocdn.com/TXhyeHzLvXrPrkIinWDxLcEonZCfYOKB/assets/static/optimized/rev-c50e164/wp-content/uploads/2021/09/Yui-Hirasawa-k-on-hi-wave1.gif" width="300" />
 
 - 🌱 I’m currently learning **Javascript, mysql, java**
 
